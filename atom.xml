@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>tbnc</title>
+ <link href="https://tigboatnc.github.io/atom.xml" rel="self"/>
+ <link href="https://tigboatnc.github.io/"/>
+ <updated>2022-01-06T05:53:18-05:00</updated>
+ <id>https://tigboatnc.github.io</id>
+ <author>
+   <name>tigboatnc</name>
+   <email>tigboatnc@gmail.com</email>
+ </author>
+
+ 
+
+</feed>

@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tbnc",
+    "home_page_url": "https://tigboatnc.github.io/",
+    "feed_url": "https://tigboatnc.github.io/feed.json",
+    "description": "so help me god",
+    "icon": "https://tigboatnc.github.io/apple-touch-icon.png",
+    "favicon": "https://tigboatnc.github.io/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "tigboatnc",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+    ]
+}
